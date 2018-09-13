@@ -1,3 +1,4 @@
+## Test from TH.
 # A very simple perceptron for classifying american sign language letters
 import signdata
 import numpy as np
